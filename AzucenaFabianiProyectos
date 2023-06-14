@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MARÍA AZUCENA FABIANI</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('ruta/a/tu/imagen.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    
+    .container {
+      text-align: center;
+      padding-top: 50px;
+    }
+    
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color:  #c5a0ef ;
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>MARÍA AZUCENA FABIANI AO1197255</h1>
+    <a class="button" href="https://azucenafabiani.wordpress.com/">PROYECTO PERSONAL</a>
+    <a class="button" href="https://yeseniatenorio.github.io/FDI-ProyectoFinal/">PROYECTO GRUPAL</a>
+  </div>
+</body>
+</html>
